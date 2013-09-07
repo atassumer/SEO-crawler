@@ -3,7 +3,7 @@ import urllib2
 from urllib import urlencode
 
 #url http://www.google.com/search?oe=utf8&ie=utf8&source=uds&start=0&hl=en&q=consoliate
-def showsome(searchfor,depth):
+def crawl(searchfor,depth):
         query = urlencode({'q': searchfor})
         for i in range(depth):
             try:
@@ -27,4 +27,8 @@ def showsome(searchfor,depth):
                 print e
                 break
 
-showsome('consoliate',50)
+def main():
+    crawl('consoliate',50)
+
+if __name__ == "__main__":
+    main()
