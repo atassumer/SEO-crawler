@@ -1,0 +1,214 @@
+predispose
+	Verb		Make someone liable or inclined to a specified attitude, action, or condition
+stagnate
+	Verb		(of water or air) Cease to flow or move; become stagnant
+		Cease developing; become inactive or dull
+penurious
+	Adjective		Extremely poor; poverty-stricken
+		Characterized by poverty or need
+		Parsimonious; mean
+ameliorate
+	Verb		Make (something bad or unsatisfactory) better
+elate
+	Adjective		In high spirits; exultant or proud
+	Verb		Make (someone) ecstatically happy
+ambrosia
+	Noun		The food of the gods
+		Something very pleasing to taste or smell
+		A fungal product used as food by <em>ambrosia</em> beetles
+		A dessert made with oranges and shredded coconut
+flay
+	Verb		Peel the skin off (a corpse or carcass)
+		Peel (the skin) off a corpse or carcass
+		Whip or beat (someone) so harshly as to remove their skin
+		Criticize severely and brutally
+		Extort or exact money or belongings from (someone)
+effluvium
+	Noun		An unpleasant or harmful odor, secretion, or discharge
+animadversion
+	Noun		Criticism or censure
+		A comment or remark, esp. a critical one
+debase
+	Verb		Reduce (something) in quality or value; degrade
+		Lower the moral character of (someone)
+		Lower the value of (coinage) by reducing the content of precious metal
+rancid
+	Adjective		(of foods containing fat or oil) Smelling or tasting unpleasant as a result of being old and stale
+opprobrium
+	Noun		Harsh criticism or censure
+		The public disgrace arising from someone's shameful conduct
+		An occasion or cause of reproach or disgrace
+captious
+	Adjective		(of a person) Tending to find fault or raise petty objections
+imbibe
+	Verb		Drink (alcohol)
+		Absorb or assimilate (ideas or knowledge)
+		(esp. of seeds) Absorb (water) into ultramicroscopic spaces or pores
+		Place (seeds) in water in order to absorb it
+circlet
+	Noun		A circular band, typically one made of precious metal, worn on the head as an ornament
+		A small circular arrangement or object
+inclement
+	Adjective		(of the weather) Unpleasantly cold or wet
+hiatus
+	Noun		A pause or gap in a sequence, series, or process
+		A break between two vowels coming together but not in the same syllable, as in <i>the ear</i> and <i>cooperate</i>
+obtrusive
+	Adjective		Noticeable or prominent in an unwelcome or intrusive way
+captivate
+	Verb		Attract and hold the interest and attention of; charm
+revile
+	Verb		Criticize in an abusive or angrily insulting manner
+apprise
+	Verb		Inform or tell (someone)
+fetid
+	Adjective		Smelling extremely unpleasant
+construe
+	Verb		Interpret (a word or action) in a particular way
+		Analyze the syntax of (a text, sentence, or word)
+		Translate (a passage or author) word for word, typically aloud
+interloper
+	Noun		A person who becomes involved in a place or situation where they are not wanted or are considered not to belong
+refectory
+	Noun		A room used for communal meals, esp. in an educational or religious institution
+impalpable
+	Adjective		Unable to be felt by touch
+		Not easily comprehended
+preternatural
+	Adjective		Beyond what is normal or natural
+brackish
+	Adjective		(of water) Slightly salty, as is the mixture of river water and seawater in estuaries
+		(of fish or other organisms) Living in or requiring such water
+		Unpleasant or distasteful
+vignette
+	Verb		Portray (someone) in the style of a <em>vignette</em>
+		Produce (a photograph) in the style of a <em>vignette</em> by softening or shading away the edges of the subject
+	Noun		A brief evocative description, account, or episode
+		A small illustration or portrait photograph that fades into its background without a definite border
+		A small ornamental design filling a space in a book or carving, typically based on foliage
+bilious
+	Adjective		Affected by or associated with nausea or vomiting
+		(of a color) Lurid or sickly
+		Spiteful; bad-tempered
+		Of or relating to bile
+corroborate
+	Verb		Confirm or give support to (a statement, theory, or finding)
+redolent
+	Adjective		Strongly reminiscent or suggestive of (something)
+		Strongly smelling of something
+		Fragrant or sweet-smelling
+congeal
+	Verb		Solidify or coagulate, esp. by cooling
+		Take shape or coalesce, esp. to form a satisfying whole
+engender
+	Verb		Cause or give rise to (a feeling, situation, or condition)
+		(of a father) Beget (offspring)
+		Come into being; arise
+lineament
+	Noun		A distinctive feature or characteristic, esp. of the face
+		A linear feature on the earth's surface, such as a fault
+nestle
+	Verb		Settle or lie comfortably within or against something
+		(of a place) Lie or be situated in a half-hidden or obscured position
+turbid
+	Adjective		(of a liquid) Cloudy, opaque, or thick with suspended matter
+obviate
+	Verb		Remove (a need or difficulty)
+		Avoid; prevent
+absolve
+	Verb		Set or declare (someone) free from blame, guilt, or responsibility
+		Give absolution for (a sin)
+scapegoat
+	Verb		Make a <em>scapegoat</em> of
+	Noun		(in the Bible) A goat sent into the wilderness after the Jewish chief priest had symbolically laid the sins of the people upon it (Lev. 16)
+		A person who is blamed for the wrongdoings, mistakes, or faults of others, esp. for reasons of expediency
+buxom
+	Adjective		(of a woman) Plump, esp. with large breasts
+expostulation
+reprove
+	Verb		Reprimand or censure (someone)
+remonstrate
+	Verb		Make a forcefully reproachful protest
+ostensible
+	Adjective		Stated or appearing to be true, but not necessarily so
+acrid
+	Adjective		Having an irritatingly strong and unpleasant taste or smell
+		Angry and bitter
+knell
+	Verb		(of a bell) Ring solemnly, esp. for a death or funeral
+		Proclaim (something) by or as if by a <em>knell</em>
+	Noun		The sound of a bell, esp. when rung solemnly for a death or funeral
+		Used with reference to an announcement, event, or sound that is regarded as a solemn warning of the end of something
+insuperable
+	Adjective		(of a difficulty or obstacle) Impossible to overcome
+frieze
+	Noun		Heavy, coarse woolen cloth with a nap, usually on one side only
+fervid
+	Adjective		Intensely enthusiastic or passionate, esp. to an excessive degree
+		Burning, hot, or glowing
+efface
+	Verb		Erase (a mark) from a surface
+		Make oneself appear insignificant or inconspicuous
+homily
+	Noun		A religious discourse that is intended primarily for spiritual edification rather than doctrinal instruction; a sermon
+		A tedious moralizing discourse
+throes
+	Noun (plural)		Intense or violent pain and struggle, esp. accompanying birth, death, or great change
+virulent
+	Adjective		(of a disease or poison) Extremely severe or harmful in its effects
+		(of a pathogen, esp. a virus) Highly infective
+		Bitterly hostile
+perfidious
+	Adjective		Deceitful and untrustworthy
+diffidence
+	Noun		Modesty or shyness resulting from a lack of self-confidence
+foment
+	Verb		Instigate or stir up (an undesirable or violent sentiment or course of action)
+		Bathe (a part of the body) with warm or medicated lotions
+sodden
+	Adjective		Saturated with liquid, esp. water; soaked through
+		Having drunk an excessive amount of a particular alcoholic drink
+	Verb		Saturate (something) with water
+evince
+	Verb		Reveal the presence of (a quality or feeling)
+		Be evidence of; indicate
+morose
+	Adjective		Sullen and ill-tempered
+disconsolate
+	Adjective		Without consolation or comfort; unhappy
+		(of a place or thing) Causing or showing a complete lack of comfort; cheerless
+interpose
+	Verb		Place or insert between one thing and another
+		Intervene between parties
+		Say (words) as an interruption
+		Exercise or advance (a veto or objection) so as to interfere
+chasten
+	Verb		(of a reproof or misfortune) Have a restraining or moderating effect on
+		(esp. of God) Discipline; punish
+despoil
+	Verb		Steal or violently remove valuable or attractive possessions from; plunder
+ferret
+	Verb		(of a person) Hunt with <em>ferrets</em>, typically for rabbits
+		Clear (a hole or area of ground) of rabbits with <em>ferrets</em>
+		Look around in a place or container in search of something
+		Search tenaciously for and find something
+	Noun		A domesticated polecat kept as a pet or used, esp. in Europe, for catching rabbits. It is typically albino or brown
+		A rare weasellike animal (Mustela nigripes), found in grassland in the U.S
+abate
+	Verb		(of something perceived as hostile, threatening, or negative) Become less intense or widespread
+		Cause to become smaller or less intense
+		Lessen, reduce, or remove (esp. a nuisance)
+leaven
+	Verb		Cause (dough or bread) to ferment and rise by adding <em>leaven</em>
+		Permeate and modify or transform (something) for the better
+	Noun		A substance, typically yeast, that is added to dough to make it ferment and rise
+		Dough that is reserved from an earlier batch in order to start a later one fermenting
+		A pervasive influence that modifies something or transforms it for the better
+doleful
+	Adjective		Expressing sorrow; mournful
+		Causing grief or misfortune
+prim
+	Adjective		Stiffly formal and respectable; feeling or showing disapproval of anything regarded as improper
+	Verb		Purse (the mouth or lips) into a <em>prim</em> expression
+
+Word Count: 69
